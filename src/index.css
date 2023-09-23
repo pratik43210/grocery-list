@@ -9,6 +9,10 @@
   box-sizing: border-box;
 }
 
+.app-icon{
+  width: 25px;
+}
+
 h1.header{
   background-color: mediumblue;
   color:white;
